@@ -106,3 +106,4 @@ if (result) {
 } else {
   console.log("The phrase is not a palindrome.");
 }
+//
